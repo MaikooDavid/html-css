@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('projeto site/imagens/fundo05.jpg');
+    background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center center ;
+}
+
+header {
+    background-image: url('projeto site/imagens/topo3.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    height: 500px;
+    width: 100vw;
+
+    
+    
+
+    
+
+
+}
